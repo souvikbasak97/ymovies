@@ -1,0 +1,11 @@
+.movie{
+    margin: auto;
+    color: #ffffff;
+    text-align: center;
+    border:4px solid white;
+}
+@media (max-width:768px){
+    .movie img{
+        width: 90%;
+    }
+}
